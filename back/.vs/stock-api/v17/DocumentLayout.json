@@ -1,0 +1,381 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\training01\\source\\repos\\stock-api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5599D9-CEC9-4A39-AA81-358AD8284DA2}|stock-api\\stock-api.csproj|c:\\users\\training01\\source\\repos\\stock-api\\stock-api\\controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5599D9-CEC9-4A39-AA81-358AD8284DA2}|stock-api\\stock-api.csproj|solutionrelative:stock-api\\controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5599D9-CEC9-4A39-AA81-358AD8284DA2}|stock-api\\stock-api.csproj|c:\\users\\training01\\source\\repos\\stock-api\\stock-api\\models\\dto\\checkproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5599D9-CEC9-4A39-AA81-358AD8284DA2}|stock-api\\stock-api.csproj|solutionrelative:stock-api\\models\\dto\\checkproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5599D9-CEC9-4A39-AA81-358AD8284DA2}|stock-api\\stock-api.csproj|c:\\users\\training01\\source\\repos\\stock-api\\stock-api\\models\\dto\\saledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5599D9-CEC9-4A39-AA81-358AD8284DA2}|stock-api\\stock-api.csproj|solutionrelative:stock-api\\models\\dto\\saledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5599D9-CEC9-4A39-AA81-358AD8284DA2}|stock-api\\stock-api.csproj|c:\\users\\training01\\source\\repos\\stock-api\\stock-api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5599D9-CEC9-4A39-AA81-358AD8284DA2}|stock-api\\stock-api.csproj|solutionrelative:stock-api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5599D9-CEC9-4A39-AA81-358AD8284DA2}|stock-api\\stock-api.csproj|c:\\users\\training01\\source\\repos\\stock-api\\stock-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5599D9-CEC9-4A39-AA81-358AD8284DA2}|stock-api\\stock-api.csproj|solutionrelative:stock-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5599D9-CEC9-4A39-AA81-358AD8284DA2}|stock-api\\stock-api.csproj|c:\\users\\training01\\source\\repos\\stock-api\\stock-api\\models\\dto\\productcheckdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5599D9-CEC9-4A39-AA81-358AD8284DA2}|stock-api\\stock-api.csproj|solutionrelative:stock-api\\models\\dto\\productcheckdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5599D9-CEC9-4A39-AA81-358AD8284DA2}|stock-api\\stock-api.csproj|c:\\users\\training01\\source\\repos\\stock-api\\stock-api\\services\\interface\\iproductservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5599D9-CEC9-4A39-AA81-358AD8284DA2}|stock-api\\stock-api.csproj|solutionrelative:stock-api\\services\\interface\\iproductservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5599D9-CEC9-4A39-AA81-358AD8284DA2}|stock-api\\stock-api.csproj|c:\\users\\training01\\source\\repos\\stock-api\\stock-api\\models\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5599D9-CEC9-4A39-AA81-358AD8284DA2}|stock-api\\stock-api.csproj|solutionrelative:stock-api\\models\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5599D9-CEC9-4A39-AA81-358AD8284DA2}|stock-api\\stock-api.csproj|c:\\users\\training01\\source\\repos\\stock-api\\stock-api\\repository\\productsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5599D9-CEC9-4A39-AA81-358AD8284DA2}|stock-api\\stock-api.csproj|solutionrelative:stock-api\\repository\\productsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5599D9-CEC9-4A39-AA81-358AD8284DA2}|stock-api\\stock-api.csproj|c:\\users\\training01\\source\\repos\\stock-api\\stock-api\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5599D9-CEC9-4A39-AA81-358AD8284DA2}|stock-api\\stock-api.csproj|solutionrelative:stock-api\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5599D9-CEC9-4A39-AA81-358AD8284DA2}|stock-api\\stock-api.csproj|c:\\users\\training01\\source\\repos\\stock-api\\stock-api\\repository\\interface\\iproductsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5599D9-CEC9-4A39-AA81-358AD8284DA2}|stock-api\\stock-api.csproj|solutionrelative:stock-api\\repository\\interface\\iproductsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5599D9-CEC9-4A39-AA81-358AD8284DA2}|stock-api\\stock-api.csproj|c:\\users\\training01\\source\\repos\\stock-api\\stock-api\\repository\\interface\\isaleitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5599D9-CEC9-4A39-AA81-358AD8284DA2}|stock-api\\stock-api.csproj|solutionrelative:stock-api\\repository\\interface\\isaleitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5599D9-CEC9-4A39-AA81-358AD8284DA2}|stock-api\\stock-api.csproj|c:\\users\\training01\\source\\repos\\stock-api\\stock-api\\services\\interface\\isaleitemservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5599D9-CEC9-4A39-AA81-358AD8284DA2}|stock-api\\stock-api.csproj|solutionrelative:stock-api\\services\\interface\\isaleitemservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5599D9-CEC9-4A39-AA81-358AD8284DA2}|stock-api\\stock-api.csproj|c:\\users\\training01\\source\\repos\\stock-api\\stock-api\\services\\interface\\isaleservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5599D9-CEC9-4A39-AA81-358AD8284DA2}|stock-api\\stock-api.csproj|solutionrelative:stock-api\\services\\interface\\isaleservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5599D9-CEC9-4A39-AA81-358AD8284DA2}|stock-api\\stock-api.csproj|c:\\users\\training01\\source\\repos\\stock-api\\stock-api\\services\\saleitemservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5599D9-CEC9-4A39-AA81-358AD8284DA2}|stock-api\\stock-api.csproj|solutionrelative:stock-api\\services\\saleitemservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5599D9-CEC9-4A39-AA81-358AD8284DA2}|stock-api\\stock-api.csproj|c:\\users\\training01\\source\\repos\\stock-api\\stock-api\\repository\\saleitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5599D9-CEC9-4A39-AA81-358AD8284DA2}|stock-api\\stock-api.csproj|solutionrelative:stock-api\\repository\\saleitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5599D9-CEC9-4A39-AA81-358AD8284DA2}|stock-api\\stock-api.csproj|c:\\users\\training01\\source\\repos\\stock-api\\stock-api\\repository\\salerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5599D9-CEC9-4A39-AA81-358AD8284DA2}|stock-api\\stock-api.csproj|solutionrelative:stock-api\\repository\\salerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5599D9-CEC9-4A39-AA81-358AD8284DA2}|stock-api\\stock-api.csproj|c:\\users\\training01\\source\\repos\\stock-api\\stock-api\\services\\saleservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5599D9-CEC9-4A39-AA81-358AD8284DA2}|stock-api\\stock-api.csproj|solutionrelative:stock-api\\services\\saleservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5599D9-CEC9-4A39-AA81-358AD8284DA2}|stock-api\\stock-api.csproj|c:\\users\\training01\\source\\repos\\stock-api\\stock-api\\models\\dto\\saleitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5599D9-CEC9-4A39-AA81-358AD8284DA2}|stock-api\\stock-api.csproj|solutionrelative:stock-api\\models\\dto\\saleitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5599D9-CEC9-4A39-AA81-358AD8284DA2}|stock-api\\stock-api.csproj|c:\\users\\training01\\source\\repos\\stock-api\\stock-api\\models\\saleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5599D9-CEC9-4A39-AA81-358AD8284DA2}|stock-api\\stock-api.csproj|solutionrelative:stock-api\\models\\saleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5599D9-CEC9-4A39-AA81-358AD8284DA2}|stock-api\\stock-api.csproj|c:\\users\\training01\\source\\repos\\stock-api\\stock-api\\repository\\interface\\isalerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5599D9-CEC9-4A39-AA81-358AD8284DA2}|stock-api\\stock-api.csproj|solutionrelative:stock-api\\repository\\interface\\isalerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CheckProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\training01\\source\\repos\\stock-api\\stock-api\\Models\\Dto\\CheckProductDto.cs",
+              "RelativeDocumentMoniker": "stock-api\\Models\\Dto\\CheckProductDto.cs",
+              "ToolTip": "C:\\Users\\training01\\source\\repos\\stock-api\\stock-api\\Models\\Dto\\CheckProductDto.cs",
+              "RelativeToolTip": "stock-api\\Models\\Dto\\CheckProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T09:54:25.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ISaleItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\training01\\source\\repos\\stock-api\\stock-api\\Repository\\interface\\ISaleItemRepository.cs",
+              "RelativeDocumentMoniker": "stock-api\\Repository\\interface\\ISaleItemRepository.cs",
+              "ToolTip": "C:\\Users\\training01\\source\\repos\\stock-api\\stock-api\\Repository\\interface\\ISaleItemRepository.cs",
+              "RelativeToolTip": "stock-api\\Repository\\interface\\ISaleItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T07:22:53.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\training01\\source\\repos\\stock-api\\stock-api\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "stock-api\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\training01\\source\\repos\\stock-api\\stock-api\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "stock-api\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T07:13:54.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SaleController.cs",
+              "DocumentMoniker": "C:\\Users\\training01\\source\\repos\\stock-api\\stock-api\\Controllers\\SaleController.cs",
+              "RelativeDocumentMoniker": "stock-api\\Controllers\\SaleController.cs",
+              "ToolTip": "C:\\Users\\training01\\source\\repos\\stock-api\\stock-api\\Controllers\\SaleController.cs",
+              "RelativeToolTip": "stock-api\\Controllers\\SaleController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwCsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T07:11:37.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\training01\\source\\repos\\stock-api\\stock-api\\Models\\Dto\\ProductDto.cs",
+              "RelativeDocumentMoniker": "stock-api\\Models\\Dto\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\training01\\source\\repos\\stock-api\\stock-api\\Models\\Dto\\ProductDto.cs",
+              "RelativeToolTip": "stock-api\\Models\\Dto\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T07:28:37.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductServices.cs",
+              "DocumentMoniker": "C:\\Users\\training01\\source\\repos\\stock-api\\stock-api\\Services\\interface\\IProductServices.cs",
+              "RelativeDocumentMoniker": "stock-api\\Services\\interface\\IProductServices.cs",
+              "ToolTip": "C:\\Users\\training01\\source\\repos\\stock-api\\stock-api\\Services\\interface\\IProductServices.cs",
+              "RelativeToolTip": "stock-api\\Services\\interface\\IProductServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T07:37:33.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductCheckDto.cs",
+              "DocumentMoniker": "C:\\Users\\training01\\source\\repos\\stock-api\\stock-api\\Models\\Dto\\ProductCheckDto.cs",
+              "RelativeDocumentMoniker": "stock-api\\Models\\Dto\\ProductCheckDto.cs",
+              "ToolTip": "C:\\Users\\training01\\source\\repos\\stock-api\\stock-api\\Models\\Dto\\ProductCheckDto.cs",
+              "RelativeToolTip": "stock-api\\Models\\Dto\\ProductCheckDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T07:53:44.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductServices.cs",
+              "DocumentMoniker": "C:\\Users\\training01\\source\\repos\\stock-api\\stock-api\\Services\\ProductServices.cs",
+              "RelativeDocumentMoniker": "stock-api\\Services\\ProductServices.cs",
+              "ToolTip": "C:\\Users\\training01\\source\\repos\\stock-api\\stock-api\\Services\\ProductServices.cs",
+              "RelativeToolTip": "stock-api\\Services\\ProductServices.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwBsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T07:34:09.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SaleDto.cs",
+              "DocumentMoniker": "C:\\Users\\training01\\source\\repos\\stock-api\\stock-api\\Models\\Dto\\SaleDto.cs",
+              "RelativeDocumentMoniker": "stock-api\\Models\\Dto\\SaleDto.cs",
+              "ToolTip": "C:\\Users\\training01\\source\\repos\\stock-api\\stock-api\\Models\\Dto\\SaleDto.cs",
+              "RelativeToolTip": "stock-api\\Models\\Dto\\SaleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T07:43:56.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\training01\\source\\repos\\stock-api\\stock-api\\Program.cs",
+              "RelativeDocumentMoniker": "stock-api\\Program.cs",
+              "ToolTip": "C:\\Users\\training01\\source\\repos\\stock-api\\stock-api\\Program.cs",
+              "RelativeToolTip": "stock-api\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAcwDYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T08:45:14.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProductsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\training01\\source\\repos\\stock-api\\stock-api\\Repository\\interface\\IProductsRepository.cs",
+              "RelativeDocumentMoniker": "stock-api\\Repository\\interface\\IProductsRepository.cs",
+              "ToolTip": "C:\\Users\\training01\\source\\repos\\stock-api\\stock-api\\Repository\\interface\\IProductsRepository.cs",
+              "RelativeToolTip": "stock-api\\Repository\\interface\\IProductsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T07:26:45.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\training01\\source\\repos\\stock-api\\stock-api\\Repository\\ProductsRepository.cs",
+              "RelativeDocumentMoniker": "stock-api\\Repository\\ProductsRepository.cs",
+              "ToolTip": "C:\\Users\\training01\\source\\repos\\stock-api\\stock-api\\Repository\\ProductsRepository.cs",
+              "RelativeToolTip": "stock-api\\Repository\\ProductsRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T07:26:48.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ISaleItemServices.cs",
+              "DocumentMoniker": "C:\\Users\\training01\\source\\repos\\stock-api\\stock-api\\Services\\interface\\ISaleItemServices.cs",
+              "RelativeDocumentMoniker": "stock-api\\Services\\interface\\ISaleItemServices.cs",
+              "ToolTip": "C:\\Users\\training01\\source\\repos\\stock-api\\stock-api\\Services\\interface\\ISaleItemServices.cs",
+              "RelativeToolTip": "stock-api\\Services\\interface\\ISaleItemServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T07:21:48.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ISaleServices.cs",
+              "DocumentMoniker": "C:\\Users\\training01\\source\\repos\\stock-api\\stock-api\\Services\\interface\\ISaleServices.cs",
+              "RelativeDocumentMoniker": "stock-api\\Services\\interface\\ISaleServices.cs",
+              "ToolTip": "C:\\Users\\training01\\source\\repos\\stock-api\\stock-api\\Services\\interface\\ISaleServices.cs",
+              "RelativeToolTip": "stock-api\\Services\\interface\\ISaleServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T07:22:32.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SaleItemServices.cs",
+              "DocumentMoniker": "C:\\Users\\training01\\source\\repos\\stock-api\\stock-api\\Services\\SaleItemServices.cs",
+              "RelativeDocumentMoniker": "stock-api\\Services\\SaleItemServices.cs",
+              "ToolTip": "C:\\Users\\training01\\source\\repos\\stock-api\\stock-api\\Services\\SaleItemServices.cs",
+              "RelativeToolTip": "stock-api\\Services\\SaleItemServices.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAzwBgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T07:22:23.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SaleItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\training01\\source\\repos\\stock-api\\stock-api\\Repository\\SaleItemRepository.cs",
+              "RelativeDocumentMoniker": "stock-api\\Repository\\SaleItemRepository.cs",
+              "ToolTip": "C:\\Users\\training01\\source\\repos\\stock-api\\stock-api\\Repository\\SaleItemRepository.cs",
+              "RelativeToolTip": "stock-api\\Repository\\SaleItemRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T07:22:55.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SaleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\training01\\source\\repos\\stock-api\\stock-api\\Repository\\SaleRepository.cs",
+              "RelativeDocumentMoniker": "stock-api\\Repository\\SaleRepository.cs",
+              "ToolTip": "C:\\Users\\training01\\source\\repos\\stock-api\\stock-api\\Repository\\SaleRepository.cs",
+              "RelativeToolTip": "stock-api\\Repository\\SaleRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T07:43:29.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SaleServices.cs",
+              "DocumentMoniker": "C:\\Users\\training01\\source\\repos\\stock-api\\stock-api\\Services\\SaleServices.cs",
+              "RelativeDocumentMoniker": "stock-api\\Services\\SaleServices.cs",
+              "ToolTip": "C:\\Users\\training01\\source\\repos\\stock-api\\stock-api\\Services\\SaleServices.cs",
+              "RelativeToolTip": "stock-api\\Services\\SaleServices.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T07:13:02.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SaleItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\training01\\source\\repos\\stock-api\\stock-api\\Models\\Dto\\SaleItemDto.cs",
+              "RelativeDocumentMoniker": "stock-api\\Models\\Dto\\SaleItemDto.cs",
+              "ToolTip": "C:\\Users\\training01\\source\\repos\\stock-api\\stock-api\\Models\\Dto\\SaleItemDto.cs",
+              "RelativeToolTip": "stock-api\\Models\\Dto\\SaleItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T07:43:55.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SaleItem.cs",
+              "DocumentMoniker": "C:\\Users\\training01\\source\\repos\\stock-api\\stock-api\\Models\\SaleItem.cs",
+              "RelativeDocumentMoniker": "stock-api\\Models\\SaleItem.cs",
+              "ToolTip": "C:\\Users\\training01\\source\\repos\\stock-api\\stock-api\\Models\\SaleItem.cs",
+              "RelativeToolTip": "stock-api\\Models\\SaleItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T07:43:58.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ISaleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\training01\\source\\repos\\stock-api\\stock-api\\Repository\\interface\\ISaleRepository.cs",
+              "RelativeDocumentMoniker": "stock-api\\Repository\\interface\\ISaleRepository.cs",
+              "ToolTip": "C:\\Users\\training01\\source\\repos\\stock-api\\stock-api\\Repository\\interface\\ISaleRepository.cs",
+              "RelativeToolTip": "stock-api\\Repository\\interface\\ISaleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T07:33:51.477Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
